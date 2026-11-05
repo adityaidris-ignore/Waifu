@@ -240,7 +240,7 @@ footer {
   </div>
 
   <div class="character">
-    <img src="sistine.png" alt="Sistine Fibel">
+    <img src="my.jpg" alt="Sistine Fibel">
 
     <div class="magic"></div>
     <div class="magic"></div>
@@ -275,7 +275,7 @@ footer {
     </button>
 
     <audio id="audio" loop>
-      <source src="music.mp3" type="audio/mpeg">
+      <source src="18.mp3" type="audio/mpeg">
     </audio>
   </div>
 </section>
